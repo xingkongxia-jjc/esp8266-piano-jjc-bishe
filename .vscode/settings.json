@@ -1,0 +1,15 @@
+{
+    "idf.pythonInstallPath": "C:\\Users\\Administrator\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "files.associations": {
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp"
+    }
+}
