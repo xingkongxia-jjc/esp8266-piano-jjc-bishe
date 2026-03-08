@@ -3,7 +3,6 @@
 #include "audio.h"
 #include "touch.h"
 #include "display.h"
-#include "music.h"
 #include "pic.cpp"
 
 void setup() {
